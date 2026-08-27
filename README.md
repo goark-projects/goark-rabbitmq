@@ -9,7 +9,7 @@ Goark RabbitMQ 是 Goark 生态的 RabbitMQ 集成模块，目标是提供 excha
 ## 模块路径
 
 ```text
-module github.com/goark-projects/goark-rabbitmq
+module goark.dev/rabbitmq
 ```
 
 ## 规划边界

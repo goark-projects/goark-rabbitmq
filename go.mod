@@ -1,3 +1,3 @@
-module github.com/goark-projects/goark-rabbitmq
+module goark.dev/rabbitmq
 
 go 1.25

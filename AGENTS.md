@@ -4,7 +4,7 @@
 
 保持消息集成库定位：API 应显式表达 exchange、queue、binding、delivery、ack 和 channel 生命周期。
 
-- Module path: `github.com/goark-projects/goark-rabbitmq`.
+- Module path: `goark.dev/rabbitmq`.
 - Keep this repository Go-native: explicit APIs, deterministic setup, small runtime contracts, and testable adapters.
 - Do not import Java/Spring runtime scanning, reflection-heavy proxy models, or broad framework behavior unless a written design explicitly justifies it.
 - Use UTF-8 and LF for all generated files. Go comments must be concise standard Simplified Chinese.
